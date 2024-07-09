@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Documents\GitHub\C-Sharp-for-.NET-Framework\MyCSharpApp\bin\Debug\net8.0\MyCSharpApp.exe
+C:\Users\Admin\OneDrive\Documents\GitHub\C-Sharp-for-.NET-Framework\MyCSharpApp\bin\Debug\net8.0\MyCSharpApp.deps.json
+C:\Users\Admin\OneDrive\Documents\GitHub\C-Sharp-for-.NET-Framework\MyCSharpApp\bin\Debug\net8.0\MyCSharpApp.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\GitHub\C-Sharp-for-.NET-Framework\MyCSharpApp\bin\Debug\net8.0\MyCSharpApp.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\C-Sharp-for-.NET-Framework\MyCSharpApp\bin\Debug\net8.0\MyCSharpApp.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\C-Sharp-for-.NET-Framework\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\GitHub\C-Sharp-for-.NET-Framework\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\C-Sharp-for-.NET-Framework\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\GitHub\C-Sharp-for-.NET-Framework\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\C-Sharp-for-.NET-Framework\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.sourcelink.json
+C:\Users\Admin\OneDrive\Documents\GitHub\C-Sharp-for-.NET-Framework\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\C-Sharp-for-.NET-Framework\MyCSharpApp\obj\Debug\net8.0\refint\MyCSharpApp.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\C-Sharp-for-.NET-Framework\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\C-Sharp-for-.NET-Framework\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\C-Sharp-for-.NET-Framework\MyCSharpApp\obj\Debug\net8.0\ref\MyCSharpApp.dll
