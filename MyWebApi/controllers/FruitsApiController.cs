@@ -20,9 +20,15 @@ namespace MyWebApi.controllers
            "grapes",
 
         };
+        //First WebApi 
         [HttpGet]
         public List<string> GetFruits(){
             return fruits;
+        }
+        //second WebApi With parameters
+        [HttpGet("{id}")]
+        public  string GetFruitsIndexOf(int id){
+            return fruits.ElementAt(id);
         }
     }
 }
